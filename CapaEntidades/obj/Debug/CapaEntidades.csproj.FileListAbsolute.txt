@@ -1,0 +1,18 @@
+C:\Users\Alumnos\Desktop\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Alumnos\Desktop\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Alumnos\Desktop\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Alumnos\Desktop\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.pdb
+G:\PLATAFORMA\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.dll
+G:\PLATAFORMA\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.dll
+G:\PLATAFORMA\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.pdb
+G:\PLATAFORMA\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\EPIS\Desktop\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de Plataformas\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.pdb
